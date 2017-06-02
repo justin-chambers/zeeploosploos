@@ -6,4 +6,5 @@ cmake-build-debug
 # Ignore filetypes
 .out
 .o
+.gz
 CMakeLists.txt
