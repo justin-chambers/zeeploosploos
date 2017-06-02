@@ -1,0 +1,9 @@
+1. Initialize Database
+    for each filename in the directory,
+      get file name
+      get file type
+      if file type == ".pgm"
+        ReadImageToVector()
+        Add vector to database
+      
+2. void ComputeAverageFace()
